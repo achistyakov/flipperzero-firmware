@@ -41,7 +41,7 @@ static const MfClassicKeyPair troika_4k_keys[] = {
     {.a = 0xa0a1a2a3a4a5, .b = 0xfbf225dc5d58}, {.a = 0xa82607b01c0d, .b = 0x2910989b6880},
     {.a = 0x2aa05ed1856f, .b = 0xeaac88e5dc99}, {.a = 0x2aa05ed1856f, .b = 0xeaac88e5dc99},
     {.a = 0x73068f118c13, .b = 0x2b7f3253fac5}, {.a = 0xfbc2793d540b, .b = 0xd3a297dc2698},
-    {.a = 0x2aa05ed1856f, .b = 0xeaac88e5dc99}, {.a = 0xae3d65a3dad4, .b = 0x0f1c63013dbb},
+    {.a = 0x2aa05ed1856f, .b = 0xeaac88e5dc99}, {.a = 0xae3d65a3dad4, .b = 0x0f1c63013dba},
     {.a = 0xa73f5dc1d333, .b = 0xe35173494a81}, {.a = 0x69a32f1c2f19, .b = 0x6b8bd9860763},
     {.a = 0x9becdf3d9273, .b = 0xf8493407799d}, {.a = 0x08b386463229, .b = 0x5efbaecef46b},
     {.a = 0xcd4c61c26e3d, .b = 0x31c7610de3b0}, {.a = 0xa82607b01c0d, .b = 0x2910989b6880},
